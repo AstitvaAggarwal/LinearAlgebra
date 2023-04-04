@@ -1,2 +1,2 @@
 # LinearAlgebra
-codes of many methods i am learning in college
+Codes for many Linear Algebra Iterative methods i am learning in college.
